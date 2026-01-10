@@ -25,13 +25,13 @@ pip install -r requirements.txt
 
 ## 实验结果 (Experimental Results)
 1. 训练曲线 (Training Curves)
-![alt text](assets/training_curve.png)
+![alt text](VGG-CIFAR10-PyTorch/assets/training_curve.png)
 2. 混淆矩阵 (Confusion Matrix)
-![alt text](assets/confusion_matrix.png)
+![alt text](VGG-CIFAR10-PyTorch/assets/confusion_matrix.png)
 3. 各个类别的准确率 (Per-Class Accuracy)
-![alt text](assets/per_class_acc.png)
+![alt text](VGG-CIFAR10-PyTorch/assets/per_class_acc.png)
 4. 预测样本展示 (Predictions)
-![alt text](assets/predictions.png)
+![alt text](VGG-CIFAR10-PyTorch/assets/predictions.png)
 
 ## 🚀 快速开始 (How to Run)
 克隆仓库：
