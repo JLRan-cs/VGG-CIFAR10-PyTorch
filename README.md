@@ -8,7 +8,7 @@
 - [x] 手动搭建 VGG 网络结构（含 Batch Normalization）
 - [x] 实现数据增强与预处理
 - [x] 可视化训练过程（Loss/Accuracy）与混淆矩阵
-- [x] 验证集准确率达到 **90.28%** (填入你的最好成绩)
+- [x] 验证集准确率达到 **90.28%**
 
 ## 🛠️ 环境依赖 (Requirements)
 - Python 3.8+
